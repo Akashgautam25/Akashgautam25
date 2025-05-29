@@ -36,8 +36,7 @@
 
 ### 📫 Reach Me
 
-- Email: `akash.025@example.com` *(replace with real one)*  
-- GitHub: [@Akashgautam25](https://github.com/Akashgautam25)
+- Email: akashgautamm25@gmail.com  
 
 ---
 
