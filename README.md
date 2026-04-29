@@ -1,108 +1,85 @@
-<h1 align="center">Akash Gautam</h1>
+<h1 align="center">
+  Hi 👋, I'm Akash Gautam
+</h1>
+
 <p align="center">
-Full Stack Developer • UI/UX Engineer • Building Scalable Web Experiences
+  <b>Full Stack Developer • UI/UX Engineer • Building Scalable Web Applications</b>
 </p>
 
 <p align="center">
-<a href="mailto:akashgautamm25@gmail.com"><b>Email</b></a> • 
-<a href="https://www.linkedin.com/in/akash-gautam-42ba31307/"><b>LinkedIn</b></a> • 
-<a href="https://github.com/Akashgautam25"><b>GitHub</b></a>
+  <a href="mailto:akashgautamm25@gmail.com">Email</a> • 
+  <a href="https://www.linkedin.com/in/akash-gautam-42ba31307/">LinkedIn</a> • 
+  <a href="https://github.com/Akashgautam25">GitHub</a> • 
+  <a href="http://localhost:5173/DVA_Portfolio/">Portfolio</a>
 </p>
 
 ---
 
-## Profile
+## 🧑‍💻 Profile
 
-Full Stack Developer with a strong focus on **frontend architecture, backend integration, and user-centric design**.  
-I build applications that are not only functional but **scalable, performant, and production-ready**.
-
-My approach combines:
-- Clean and modular **code architecture**
-- Thoughtful **UI/UX design systems**
-- Efficient **API-driven development**
+Full Stack Developer focused on building **scalable, performant, and user-centric web applications**.  
+I combine **modern frontend systems** with **robust backend architecture** to deliver production-ready solutions.
 
 ---
 
-## Core Competencies
+## ⚙️ Tech Stack
 
-- **Frontend Engineering:** React, Tailwind CSS, Component Architecture  
-- **Backend Development:** Node.js, Express.js, REST APIs  
-- **Programming:** JavaScript, Python  
-- **Tools & Platforms:** Git, GitHub, Vercel, Figma  
-- **Concepts:** System Design Basics, API Integration, Responsive Design  
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,python,react,tailwind,nodejs,express,git,github,vercel,figma" />
+</p>
 
 ---
 
-## Projects & Work
+## 🚀 Projects
 
-### E-Commerce Web Application
-Developed a scalable product-based web platform with advanced filtering, cart management, and checkout simulation.
+### 🛒 E-Commerce Web Application  
+🔗 <a href="https://github.com/Akashgautam25/DVA_Portfolio">View Repository</a>  
+🔗 <a href="http://localhost:5173/DVA_Portfolio/">Live Demo</a>  
 
-**Key Contributions:**
-- Designed reusable component architecture using React  
-- Implemented dynamic product filtering and state management  
-- Built responsive UI optimized for mobile, tablet, and desktop  
-- Focused on performance and clean UX flows  
-
----
-
-### OpenSky Aviation Data Analysis
-Worked with real-world aviation datasets to extract insights and patterns.
-
-**Key Contributions:**
-- Processed and analyzed large datasets  
-- Generated meaningful insights through structured analysis  
-- Applied data visualization techniques for clarity  
+- Built scalable frontend using React  
+- Implemented filtering, cart, and checkout flow  
+- Designed responsive UI across devices  
 
 ---
 
-### UI/UX Case Studies
-Designed modern, user-centered interfaces with emphasis on usability and accessibility.
+### 📊 OpenSky Data Analysis  
+🔗 <a href="https://github.com/Navodit-AI/SectionE_G-8_opensky_analysis">View Project</a>  
 
-**Key Contributions:**
-- Created clean, minimal UI systems in Figma  
-- Focused on accessibility and visual hierarchy  
-- Improved user interaction flows and consistency  
+- Analyzed aviation datasets  
+- Extracted insights using structured data  
+- Created visualizations  
 
 ---
 
-## GitHub Insights
+## 📈 GitHub Analytics
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Akashgautam25&show_icons=true&hide_border=true"/>
-<img src="https://streak-stats.demolab.com/?user=Akashgautam25&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Akashgautam25&hide_border=true"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akashgautam25&layout=compact&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Akashgautam25&hide_border=true"/>
 </p>
 
 ---
 
-## Engineering Approach
+## 🧠 Engineering Approach
 
-- Build **scalable and maintainable systems**
-- Prioritize **user experience and performance**
-- Follow **structured development practices**
-- Continuously iterate and improve through real-world projects  
-
----
-
-## Current Focus
-
-- Backend system design and API optimization  
-- Full stack application development  
-- Writing cleaner, more maintainable production code  
+- Write **clean and maintainable code**
+- Focus on **performance and scalability**
+- Design with **user-first mindset**
+- Build **production-ready systems**
 
 ---
 
-## Contact
+## 📬 Contact
 
-**Email:** akashgautamm25@gmail.com  
-**LinkedIn:** https://www.linkedin.com/in/akash-gautam-42ba31307/
+- 📧 <a href="mailto:akashgautamm25@gmail.com">akashgautamm25@gmail.com</a>  
+- 💼 <a href="https://www.linkedin.com/in/akash-gautam-42ba31307/">LinkedIn Profile</a>  
 
 ---
 
 <p align="center">
-<sub>Focused on solving real-world problems through scalable and well-designed software.</sub>
+<sub>Consistently building, learning, and improving.</sub>
 </p>
