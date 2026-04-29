@@ -1,91 +1,87 @@
-<h1 align="center">Hi 👋, I'm Akash Gautam</h1>
-<h3 align="center">🚀 Full Stack Developer | UI/UX Enthusiast | Problem Solver</h3>
-
----
-
-## 💫 About Me
-- 🌱 Currently learning **Backend Development (Node.js, Express.js, REST APIs)**
-- 🎨 Passionate about **UI/UX Design & Frontend Development**
-- 🔍 Exploring **Open Source Contributions**
-- 💬 Ask me about **React, Tailwind CSS, JavaScript**
-- 📫 Reach me at **akashgautamm25@gmail.com**
-
----
-
-## 🌐 Connect With Me
-<p align="left">
-<a href="https://www.linkedin.com/in/akash-gautam-42ba31307/" target="blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://instagram.com/_akash_.025" target="blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-<a href="mailto:akashgautamm25@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-</p>
-
----
-
-## 💻 Tech Stack
+<h1 align="center">Akash Gautam</h1>
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,python,react,tailwind,nodejs,express,figma,git,github,vercel" />
-
-</p>
-
----
-
-## 🚀 Projects Showcase
-- 🛍️ **E-Commerce Storefront** – Product filtering, cart, and checkout simulation  
-- 📊 **OpenSky Data Analysis** – Aviation dataset insights with visualizations  
-- 🎨 **UI/UX Case Studies** – Clean, modern, user-focused designs  
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Akashgautam25&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-<img src="https://streak-stats.demolab.com/?user=Akashgautam25&theme=tokyonight&hide_border=true"/>
+Full Stack Developer • UI/UX Enthusiast • Problem Solver
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akashgautam25&theme=tokyonight&hide_border=true&layout=compact"/>
+<a href="mailto:akashgautamm25@gmail.com">Email</a> • 
+<a href="https://www.linkedin.com/in/akash-gautam-42ba31307/">LinkedIn</a> • 
+<a href="https://github.com/Akashgautam25">GitHub</a>
 </p>
 
 ---
 
-## 🏆 GitHub Achievements
+## About
+
+I am a developer focused on building **scalable web applications** and **clean user interfaces**.  
+My work combines **frontend precision** with **backend logic**, aiming to deliver real-world, production-ready solutions.
+
+- Currently working with **Node.js, Express.js, and REST APIs**
+- Strong focus on **React + Tailwind CSS**
+- Interested in **system design, performance, and usability**
+- Exploring **open-source collaboration and real-world problem solving**
+
+---
+
+## Technical Skills
+
+**Languages**  
+JavaScript • Python  
+
+**Frontend**  
+React • Tailwind CSS • HTML • CSS  
+
+**Backend**  
+Node.js • Express.js • REST APIs  
+
+**Tools & Platforms**  
+Git • GitHub • Vercel • Figma  
+
+---
+
+## Selected Work
+
+**E-Commerce Web Application**  
+Designed and developed a product-based web platform with filtering, cart system, and checkout flow.  
+Focus: UI/UX consistency, responsive design, and component architecture  
+
+**OpenSky Aviation Data Analysis**  
+Analyzed aviation datasets to extract meaningful insights using data processing and visualization techniques  
+
+**UI/UX Case Studies**  
+Created user-centered designs with emphasis on accessibility, clarity, and modern interface patterns  
+
+---
+
+## GitHub Activity
+
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Akashgautam25&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Akashgautam25&show_icons=true&hide_border=true"/>
+<img src="https://streak-stats.demolab.com/?user=Akashgautam25&hide_border=true"/>
 </p>
 
----
-
-## 📈 Contribution Graph
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Akashgautam25&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akashgautam25&layout=compact&hide_border=true"/>
 </p>
 
 ---
 
-## 🔝 Top Contributed Repositories
+## Approach
+
+- Write **clean, maintainable code**
+- Focus on **user-first design**
+- Build **scalable and structured systems**
+- Continuously improve through **real-world projects**
+
+---
+
+## Contact
+
+Email: akashgautamm25@gmail.com  
+LinkedIn: https://www.linkedin.com/in/akash-gautam-42ba31307/
+
+---
+
 <p align="center">
-<img src="https://github-contributor-stats.vercel.app/api?username=Akashgautam25&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
+<sub>Focused on building meaningful and production-ready software.</sub>
 </p>
-
----
-
-## 👀 Profile Views
-<p align="center">
-<img src="https://visitcount.itsvg.in/api?id=Akashgautam25&icon=5&color=6"/>
-</p>
-
----
-
-## ✨ Quote
-> "Code. Design. Solve. Repeat."
-
----
-
-<!-- Proudly crafted by Akash Gautam 🚀 -->
