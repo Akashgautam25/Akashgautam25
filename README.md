@@ -49,7 +49,7 @@ const akash = {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,nodejs,express,mongodb,mysql,python,java,git,github,vscode,figma" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,nodejs,express,mongodb,mysql,python,java,git,github,vscode" />
 
 </div>
 
