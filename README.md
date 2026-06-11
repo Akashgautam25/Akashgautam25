@@ -1,6 +1,5 @@
 <div align="center">
 
-<div align="center">
 
 # AKASH GAUTAM
 
@@ -13,10 +12,6 @@
 > Designing and building experiences that are fast, scalable and meaningful.
 
 <br>
-
-![](https://komarev.com/ghpvc/?username=Akashgautam25&style=for-the-badge&color=7AA2F7)
-
-</div>
 
 <br>
 
