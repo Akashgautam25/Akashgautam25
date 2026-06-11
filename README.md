@@ -1,131 +1,129 @@
 <div align="center">
 
-# Akash Gautam
+# AKASH GAUTAM
 
-### Full Stack Developer • UI/UX Enthusiast • Creative Builder
+### Building
 
-Building modern, scalable and visually engaging digital experiences.
+### Full Stack Developer • UI/UX Enthusiast • Digital Builder
 
-<br>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Building+Modern+Web+Experiences;React+%7C+Next.js+%7C+Node.js;Always+Learning+Something+New" />
+Designing and building experiences that are fast, scalable and meaningful.
 
 <br>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Akashgautam25&style=for-the-badge&color=blueviolet)](https://github.com/Akashgautam25)
-[![GitHub followers](https://img.shields.io/github/followers/Akashgautam25?style=for-the-badge)](https://github.com/Akashgautam25?tab=followers)
+![](https://komarev.com/ghpvc/?username=Akashgautam25&style=for-the-badge&color=blueviolet)
 
 </div>
 
 ---
 
-## Philosophy
+# ⚡ Manifesto
 
 ```javascript
 const akash = {
-  role: "Full Stack Developer",
-  focus: "Building meaningful digital experiences",
-  currentlyLearning: [
-    "Next.js",
-    "Backend Development",
-    "Three.js",
-    "System Design"
-  ],
-  interests: [
-    "UI/UX",
-    "Creative Development",
-    "Open Source",
-    "Gaming"
-  ],
-  motto: "Design × Code × Innovation"
-};
+  title: "Full Stack Developer",
+  building: "Modern Web Applications",
+  learning: ["Next.js", "Three.js", "Backend Development", "System Design"],
+  passions: ["UI/UX", "Open Source", "Gaming", "Creative Development"],
+  mindset: "Code × Design × Innovation"
+}
 ```
 
-> **I don't just build websites.  
-> I build experiences.**
+> I don't build websites.
+>
+> I build experiences.
 
 ---
 
-## About Me
+# 🧠 About Me
 
-- Computer Science student from India
-- Passionate about Full Stack Development and UI/UX
-- Love creating interactive and responsive experiences
-- Exploring modern technologies and creative interfaces
-- Gamer • Movie Enthusiast • Tech Explorer
-- Usually shipping projects late at night
-
----
-
-# Tech Stack
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,firebase" />
-</p>
-
-### Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,java" />
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
-</p>
+- 🎓 CSE Student from India
+- 💻 Building modern web experiences
+- ⚡ Passionate about UI/UX and Full Stack Development
+- 🚀 Exploring creative development and system design
+- 🎮 Gamer • Movie Enthusiast • Tech Explorer
+- 🌙 Usually shipping things late at night
 
 ---
 
-# Featured Projects
+# 🛠 Tech Stack
 
-### NoteSphere
+<div align="center">
 
-> Smart notes management application with authentication, cloud sync, search and categorization.
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,nodejs,express,mongodb,mysql,python,java,git,github,vscode,figma" />
 
-**Tech:** React • Firebase • Tailwind CSS
-
----
-
-### Library Management System
-
-> Role-based library platform with book management, borrowing, transaction tracking and overdue fine calculation.
-
-**Tech:** React • Node.js • Express • MongoDB
+</div>
 
 ---
 
-### BrowseBuy
+# 🚀 Featured Projects
 
-> Responsive product search and filtering application with real-time updates.
+### 📝 NoteSphere
 
-**Tech:** HTML • CSS • JavaScript • API Integration
-
----
-
-### EventEase
-
-> Event management platform with JWT authentication, Google OAuth and role-based access.
-
-**Tech:** React • Node.js • Express • MongoDB
+Smart notes management application with authentication, cloud sync, search and categorization.
 
 ---
 
-# Currently Exploring
+### 📚 Library Management System
+
+Role-based library platform with book management, borrowing, transaction tracking and overdue fine calculation.
+
+---
+
+### 🛍 BrowseBuy
+
+Responsive product search and filtering application with real-time updates.
+
+---
+
+### 🎉 EventEase
+
+Event management platform with JWT authentication, Google OAuth and admin dashboards.
+
+---
+
+# 📈 GitHub Metrics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Akashgautam25&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://streak-stats.demolab.com?user=Akashgautam25&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📊 Most Used Languages
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akashgautam25&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Akashgautam25&theme=tokyo-night"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Akashgautam25/Akashgautam25/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# 🌌 Currently Exploring
 
 ```yaml
 learning:
@@ -138,63 +136,17 @@ learning:
 
 ---
 
-# GitHub Analytics
+# 🌐 Connect
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Akashgautam25&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akashgautam25&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# Streak Stats
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Akashgautam25&theme=tokyonight&hide_border=true"/>
+[![Email](https://img.shields.io/badge/EMAIL-black?style=for-the-badge&logo=gmail)](mailto:your-email@gmail.com)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GITHUB-black?style=for-the-badge&logo=github)](https://github.com/Akashgautam25)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-black?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-linkedin)
 
 </div>
-
----
-
-# Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Akashgautam25&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Akashgautam25&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</div>
-
----
-
-# Connect
-
-<p align="center">
-<a href="https://github.com/Akashgautam25">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://linkedin.com">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="mailto:your-email@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-</p>
 
 ---
 
@@ -202,6 +154,6 @@ learning:
 
 ### Design • Code • Build
 
-*Powered by curiosity, coffee and countless late-night coding sessions.*
+Powered by curiosity, late nights and impossible ideas.
 
 </div>
