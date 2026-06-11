@@ -113,13 +113,16 @@ Event management platform with JWT authentication, Google OAuth and admin dashbo
 
 ---
 
-# 🐍 Contribution Snake
+
+# 📈 Contribution Graph
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Akashgautam25/Akashgautam25/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Akashgautam25&theme=github-dark"/>
 
 </div>
+
+---
 
 ---
 
