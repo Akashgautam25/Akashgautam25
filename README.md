@@ -1,8 +1,9 @@
 <div align="center">
 
 
-# AKASH GAUTAM
+# Akash Gautam
 
+<br>
 <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=30&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+Modern+Experiences;Full+Stack+Developer;UI%2FUX+Enthusiast;React+%7C+Next.js+%7C+Node.js" />
 
 <br>
@@ -11,7 +12,6 @@
 
 > Designing and building experiences that are fast, scalable and meaningful.
 
-<br>
 
 <br>
 
