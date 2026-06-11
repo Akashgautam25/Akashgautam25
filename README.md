@@ -1,12 +1,22 @@
 <div align="center">
 
+<div align="center">
+
 # AKASH GAUTAM
 
-### Building
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=30&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+Modern+Experiences;Full+Stack+Developer;UI%2FUX+Enthusiast;React+%7C+Next.js+%7C+Node.js" />
 
-### Full Stack Developer • UI/UX Enthusiast • Digital Builder
+<br>
 
-Designing and building experiences that are fast, scalable and meaningful.
+### Full Stack Developer • UI/UX Enthusiast • Creative Builder
+
+> Designing and building experiences that are fast, scalable and meaningful.
+
+<br>
+
+![](https://komarev.com/ghpvc/?username=Akashgautam25&style=for-the-badge&color=7AA2F7)
+
+</div>
 
 <br>
 
